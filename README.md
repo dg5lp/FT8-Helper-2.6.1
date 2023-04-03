@@ -4,7 +4,7 @@ Important note!
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
 
 New in v2.6.1-1 
-- The FT8-Helper and JTDX-Helper share the most part of the source code. On this reason the manuals were merged. The WSJT-X and JTDX specific parts are marked accordingly. On this occasion the version numbering of the software has been changed. The first part of the number identifies the matching WSJTX/JTDX version, die number following the “-“ shows the actual version of the Helper. The current version if FT8-Helper 2.6.1-1 for WSJT-X v2.6.1
+- The FT8-Helper and JTDX-Helper share the most part of the source code. On this reason the manuals were merged. The WSJT-X and JTDX specific parts are marked accordingly. On this occasion the version numbering of the software has been changed. The first part of the number identifies the matching WSJTX/JTDX version, die number following the “-“ shows the actual version of the Helper. The current version is FT8-Helper 2.6.1-1 for WSJT-X v2.6.1
 
 - Selection of CQ, S/P, XCHG and MIX mode by menas of selection menu instead of dedicated Start-SP and Start-CQ buttons
 - CQ+SP mode was re-named to XCHG-mode
