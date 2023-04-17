@@ -9,7 +9,7 @@ new in v2.6.1-4
 New in v2.6.1-3
 -  73=CQ is available in S/P both split- and non-split mode. It will call only stations from those previously a CQ was received.
 
-New in v2.6.1-2 
+New in v2.6.1-2  - v2.6.1-1 was a test version, was not publishded
 - The FT8-Helper and JTDX-Helper share the most part of the source code. The version numbering of the software has been changed. The first part of the number identifies the matching WSJTX/JTDX version, die number following the “-“ shows the actual version of the Helper. 
 
 - Selection of CQ, S/P, XCHG and MIX mode by menas of selection menu instead of dedicated Start-SP and Start-CQ buttons
