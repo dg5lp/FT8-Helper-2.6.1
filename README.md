@@ -3,6 +3,9 @@ Important note!
 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
 
+new in v2.6.1-4
+- Bugfix in Band-Hopping, when 73=CQ selcted: Does not stop correct at the predefined cycle.
+
 New in v2.6.1-3
 -  73=CQ is available in S/P both split- and non-split mode. It will call only stations from those previously a CQ was received.
 
