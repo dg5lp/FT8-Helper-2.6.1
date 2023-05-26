@@ -6,7 +6,7 @@ When downloading the exe file, virus-alarm might occur. This is a false alarm. T
 new in v2.6.1-5a  Preliminary test version!!!
 - In S/P-mode allows to call stations calling CQ POTA (works as well with SOTA)
 - Enter POTA into the "Own Locations" field of the Helper's configuration
-- To prefer POTA staions enter POTA into the "Wanted Calls" field, and select "Prefer Wandted" or "Only wanted"
+- To prefer POTA stations enter POTA into the "Wanted Calls" field, and select "Prefer Wanted" or "Only Wanted"
 
 new in v2.6.1-5
 - Bugfix: Heder-text was invorrect, the Helper could started twice.
