@@ -4,7 +4,7 @@ Important note!
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
 
 new in v2.6.1-5a  Preliminary test version!!!
-- allows calling stations calling CQ POTA in S/P-mode (working with SOTA too)
+- In S/P-mode allows to call stations calling CQ POTA (working with SOTA too)
 - Enter POTA into the "Own Locations" field of the Helper's configuration
 - To prefer POTA staions enter POTA into the "Wanted Calls" field, and select "Prefer Wandted" or "Only wanted"
 
