@@ -3,11 +3,9 @@ Important note!
 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
 
-new in v2.6.1-5b  Preliminary test version!!!
+new in v2.6.1-6  Latest version!!!
 - In S/P-mode allows to call stations calling CQ POTA (works as well with VOTA, COTA and SOTA)
-- Enter POTA into the "Own Locations" field of the Helper's configuration
-- To prefer POTA stations enter POTA into the "Wanted Calls" field, and select "Prefer Wanted" or "Only Wanted"
-- Unfortunately it works only correctly, if in the WSJT-X color configuration all colors higher "New Grid" are disabled.
+- Some minor bugfixes
 
 new in v2.6.1-5
 - Bugfix: Heder-text was invorrect, the Helper could started twice.
