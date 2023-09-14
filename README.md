@@ -29,7 +29,7 @@ New in v2.6.1-2  - v2.6.1-1 was a test version, was not publishded
  
 ==========================================================================
 
-The FT8-Helper program was developed as macro extension for WSJT-X using the Quick-Macros program. Comparing to other FT8-Robot programs, the FT8-Helper is more “intelligent”, it interprets the received messages of WSJTX and acts according to the own pre-programmed QSO strategy. The delivered EXE file contains the licence for Quick-Macros.
+The FT8-Helper program was developed as macro extension for WSJT-X using the Quick-Macros program. Comparing to other FT8-Robot programs, the FT8-Helper is more “intelligent”, it interprets the received messages of WSJTX and acts according to the own auto-sequencing and programmable QSO strategy. The FT8-Helper is a "portable" software, to start it no installation of Quick-Macros required! Simply copy and start it.
 
 Main Features:
 
