@@ -3,7 +3,12 @@ Important note!
 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
 
-new in v2.6.1-6  Latest version!!!
+new in v2.6.1-7  Latest version!!!
+- Possibility to enter call-signs in a "Prompt-List" for higher priority treatment.
+- New "DX-chasing" strategy for calling rare DX stations (the "Pitbull" function)
+- Read the updated manual how to use the new features
+
+new in v2.6.1-6 
 - In S/P-mode allows to call stations calling CQ POTA (works as well with VOTA, COTA and SOTA)
 - Some minor bugfixes
 
@@ -41,6 +46,7 @@ Main Features:
 - Repeat RR73 if no closing 73 received. Warning if no colsing 73 received.
 - Skip-Tx1: calls stations with report instead of QRA-grid.
 - CQ=73. When in split-mode, the Helper can call stations sending 73 or RR73.
+- Prompt call list for preferred handling the listed stations
 - Comfortable set-up of all parameter
 - Easy installation
 - WSJT-X can start with the -rig-name argument
@@ -57,6 +63,7 @@ Various strategies for incoming and outgoing calls:
 - Most distance: Calls the station with the greatest distance.
 - Prefer Wanted: prefixes, DXCC-entities and continents can be specified.
 - Only Wanted: prefixes, DXCC.entities and continents can be specified
+- DX-Chasing: for callng rare DX-stations.
 - Exclude stations, prefixes DXCC-entities and continents can be specified
 - DXCC entities and prefixes can be excluded for outgoing and for both in/outcoming calls
 - Keep-Even/Odd cycle for 6m DX-ing
