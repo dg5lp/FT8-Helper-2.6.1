@@ -9,7 +9,7 @@ Be sure using the original WSJTX!  There are clones in circulation using the sam
 new in v2.6.1-8
 - Prompt-Call list: Entering wanted stations into this list, the stations will be preferred. It is similar to the "Wanted Call" list, but it is reachable from the main session, even during running S/P operatio, thus there is no need to open the configuration. 
 - New Strategy "DX-Chasing": This strategy was implemented to call rare DX stations. The wanted DX station is to enter into the "Prompt Call" list. It works similar to "Only-Wanted" but it starts in split-mode. The user must search and set a free frequency manually. After reception of the first CQ or RR73/73 of the wanted DX station, the Helper calls the station contionusly and does not stops if the station answers to another station. This is the so-called "Pitbull QSO" mode. During the QSO attempt all other stations are ignored. 
-- New field: shows the callsign of the current QSO
+- New field, QSO-with: shows the callsign of the current QSO
 
 new in v2.6.1-7  
 - Possibility to enter call-signs in a "Prompt-List" for higher priority treatment.
