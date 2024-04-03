@@ -6,7 +6,12 @@ Be sure using the original WSJTX. There are some modified clones in circulation 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software.
 Be sure using the original WSJTX!  There are clones in circulation using the same version-number as the origianl WSJTX. It will not work!
 
-new in v2.6.1-7  Latest version!!!
+new in v2.6.1-8
+- Prompt-Call list: Entering wanted stations into this list, the stations will be preferred. It is similar to the "Wanted Call" list, but it is reachable from the main session, even during running S/P operatio, thus there is no need to open the configuration. During attempting the QSO with the wanted station, all other stations are ignored (lock mechanism)
+- New Strategy "DX-Chasing": This strategy was implemented to call rare DX stations. The wanted DX station is to enter into the "Prompt Call" list. It works similar to "Only-Wanted" but it starts in split-mode. The user must search and set a free frequency manually. After reception of the first CQ or RR73/73 the Helper calls the wanted station contionusly and does not stops if the station answers to another station. This is the so-called "Pitbull QSO". During the QSO attempt all other stations are ignored. (lock mechanism)
+- New field: shows the callsign of the current QSO
+
+new in v2.6.1-7  
 - Possibility to enter call-signs in a "Prompt-List" for higher priority treatment.
 - New "DX-chasing" strategy for calling rare DX stations (the "Pitbull" function)
 - Read the updated manual how to use the new features
